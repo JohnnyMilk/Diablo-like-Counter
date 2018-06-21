@@ -1,4 +1,4 @@
-# Diablo-like-Counter
+# Diablo-like Counter
 A counter with Diablo style.
 
 
